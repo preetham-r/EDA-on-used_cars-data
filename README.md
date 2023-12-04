@@ -1,1 +1,3 @@
-# EDA-on-used_cars-data
+# Exploratory Data analysis
+
+EDA on used cars data
